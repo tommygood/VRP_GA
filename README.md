@@ -6,4 +6,4 @@ a gene algorithm to solve vrp problem with python
 - `makeTestData.py` : create test data in `delivery.txt`
 
 ## reference
-- <a href = "https://github.com/PeiYingYu3003">PeiYingYu3003</a>
+- Credit To : <a href = "https://github.com/PeiYingYu3003">PeiYingYu3003</a>
